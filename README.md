@@ -1,5 +1,5 @@
 # todo-list
-##Project made with:
+## Project made with:
 - Boilerplate: ViteJs
 - Framework : ReactJs
 - Languages : Sass/HTML/Typescript
